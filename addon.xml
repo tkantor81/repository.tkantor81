@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.tkantor81" name="tkantor81 Doplňky" version="0.0.1" provider-name="tkantor81">
+    <extension point="xbmc.addon.repository">
+        <info compressed="true">https://raw.github.com/tkantor81/repository.tkantor81/master/repository/addons.xml</info>
+        <checksum>https://raw.github.com/tkantor81/repository.tkantor81/master/repository/addons.xml.md5</checksum>
+        <datadir zip="true">https://raw.github.com/tkantor81/repository.tkantor81/master/repository</datadir>
+    </extension>
+
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en"></summary>
+        <summary lang="cs"></summary>
+        <description lang="en"></description>
+        <description lang="cs"></description>
+        <disclaimer lang="en"></disclaimer>
+        <disclaimer lang="cs"></disclaimer>
+        <language>cs</language>
+        <platform>all</platform>
+        <license>GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007</license>
+        <forum></forum>
+        <website></website>
+        <email>tkantor81@gmail.com</email>
+        <source></source>
+    </extension>
+</addon>
